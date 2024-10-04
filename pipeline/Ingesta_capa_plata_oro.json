@@ -14,7 +14,14 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/Users/alexis_caro1103@hotmail.com/Ingesta_capa_plata_capa_oro"
+				},
+				"linkedServiceName": {
+					"referenceName": "AzureDatabrickscapaoro",
+					"type": "LinkedServiceReference"
+				}
 			}
 		],
 		"annotations": []
